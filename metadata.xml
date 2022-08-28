@@ -11,5 +11,10 @@
     <league name="Legion" major="3" minor="7" start="2019-06-07 20:00:00" end="2019-09-03 21:00:00" />
     <league name="Blight" major="3" minor="8" start="2019-09-06 20:00:00" end="2019-12-09 21:00:00" />
     <league name="Metamorph" major="3" minor="9" start="2019-12-13 20:00:00" end="2020-03-09 21:00:00" />
+    <league name="Delirium" major="3" minor="10" start="2020-03-13 20:00:00" end="2020-06-15 21:00:00" />
+    <league name="Harvest" major="3" minor="11" start="2020-06-09 20:00:00" end="2020-09-14 21:00:00" />
+    <league name="Heist" major="3" minor="12" start="2020-09-18 20:00:00" end="2021-01-11 21:00:00" />
+    <league name="Ritual" major="3" minor="13" start="2021-01-15 20:00:00" end="2021-04-12 21:00:00" />
+    <league name="Ultimatum" major="3" minor="14" start="2021-04-16 20:00:00" end="2021-07-19 22:00:00" />
   </leagues>
 </metadata>
