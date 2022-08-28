@@ -1,6 +1,9 @@
 <version>
   <latest>1.1.0</latest>
   <changelog> <!-- used since 0.8.0 -->
-       
+       <chg version="1.1.0">new metadata backend</chg>  
+       <chg version="1.1.0">new filter for current league</chg>  
+       <chg version="1.1.0">league info is updated live from metadata now</chg>  
+       <chg version="1.1.0">heists are auto tagged as blueprint, if 3 or more rouqes appear</chg>  
  </changelog>
 </version>
