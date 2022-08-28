@@ -19,6 +19,6 @@
     <league name="Scourge" major="3" minor="16" start="2021-10-22 20:00:00" end="2022-01-31 21:00:00" current="false"/>
     <league name="Archnemesis" major="3" minor="17" start="2022-02-04 20:00:00" end="2022-05-10 21:00:00" current="false"/>
     <league name="Sentinel" major="3" minor="18" start="2022-05-13 20:00:00" end="2022-07-31 21:00:00" current="false"/>
-    <league name="Kalandra" major="3" minor="19" start="2022-05-13 22:00:00" end="2022-12-30 21:00:00" current="true" />
+    <league name="Kalandra" major="3" minor="19" start="2022-08-19 22:00:00" end="2022-12-30 21:00:00" current="true" />
   </leagues>
 </metadata>
