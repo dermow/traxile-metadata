@@ -1,24 +1,24 @@
 <metadata>
   <leagues>
-    <league name="Harbinger" major="3" minor="0" start="2017-08-04 20:00:00" end="2017-12-04 21:00:00" />
-    <league name="Abyss" major="3" minor="1" start="2017-12-08 20:00:00" end="2018-02-26 21:00:00" />
-    <league name="Bestiary" major="3" minor="2" start="2018-03-02 20:00:00" end="2018-05-28 22:00:00" />
-    <league name="Incursion" major="3" minor="3" start="2018-06-01 20:00:00" end="2018-08-27 21:00:00" />
-    <league name="Delve" major="3" minor="4" start="2018-08-31 20:00:00" end="2018-12-03 21:00:00" />
-    <league name="Betrayal" major="3" minor="5" start="2018-12-07 20:00:00" end="2019-03-04 21:00:00" />
-    <league name="Synthesis" major="3" minor="6" start="2019-03-08 20:00:00" end="2019-06-03 22:00:00" />
-    <league name="Legion" major="3" minor="7" start="2019-06-07 20:00:00" end="2019-09-03 21:00:00" />
-    <league name="Blight" major="3" minor="8" start="2019-09-06 20:00:00" end="2019-12-09 21:00:00" />
-    <league name="Metamorph" major="3" minor="9" start="2019-12-13 20:00:00" end="2020-03-09 21:00:00" />
-    <league name="Delirium" major="3" minor="10" start="2020-03-13 20:00:00" end="2020-06-15 21:00:00" />
-    <league name="Harvest" major="3" minor="11" start="2020-06-09 20:00:00" end="2020-09-14 21:00:00" />
-    <league name="Heist" major="3" minor="12" start="2020-09-18 20:00:00" end="2021-01-11 21:00:00" />
-    <league name="Ritual" major="3" minor="13" start="2021-01-15 20:00:00" end="2021-04-12 21:00:00" />
-    <league name="Ultimatum" major="3" minor="14" start="2021-04-16 20:00:00" end="2021-07-19 22:00:00" />
-    <league name="Expedition" major="3" minor="15" start="2021-07-23 20:00:00" end="2021-10-19 21:00:00" />
-    <league name="Scourge" major="3" minor="16" start="2021-10-22 20:00:00" end="2022-01-31 21:00:00" />
-    <league name="Archnemesis" major="3" minor="17" start="2022-02-04 20:00:00" end="2022-05-10 21:00:00" />
-    <league name="Sentinel" major="3" minor="18" start="2022-05-13 20:00:00" end="2022-07-31 21:00:00" />
+    <league name="Harbinger" major="3" minor="0" start="2017-08-04 20:00:00" end="2017-12-04 21:00:00" current="false"/>
+    <league name="Abyss" major="3" minor="1" start="2017-12-08 20:00:00" end="2018-02-26 21:00:00" current="false"/>
+    <league name="Bestiary" major="3" minor="2" start="2018-03-02 20:00:00" end="2018-05-28 22:00:00" current="false"/>
+    <league name="Incursion" major="3" minor="3" start="2018-06-01 20:00:00" end="2018-08-27 21:00:00" current="false"/>
+    <league name="Delve" major="3" minor="4" start="2018-08-31 20:00:00" end="2018-12-03 21:00:00" current="false"/>
+    <league name="Betrayal" major="3" minor="5" start="2018-12-07 20:00:00" end="2019-03-04 21:00:00" current="false"/>
+    <league name="Synthesis" major="3" minor="6" start="2019-03-08 20:00:00" end="2019-06-03 22:00:00" current="false"/>
+    <league name="Legion" major="3" minor="7" start="2019-06-07 20:00:00" end="2019-09-03 21:00:00" current="false"/>
+    <league name="Blight" major="3" minor="8" start="2019-09-06 20:00:00" end="2019-12-09 21:00:00" current="false"/>
+    <league name="Metamorph" major="3" minor="9" start="2019-12-13 20:00:00" end="2020-03-09 21:00:00" current="false"/>
+    <league name="Delirium" major="3" minor="10" start="2020-03-13 20:00:00" end="2020-06-15 21:00:00" current="false"/>
+    <league name="Harvest" major="3" minor="11" start="2020-06-09 20:00:00" end="2020-09-14 21:00:00" current="false"/>
+    <league name="Heist" major="3" minor="12" start="2020-09-18 20:00:00" end="2021-01-11 21:00:00" current="false"/>
+    <league name="Ritual" major="3" minor="13" start="2021-01-15 20:00:00" end="2021-04-12 21:00:00" current="false"/>
+    <league name="Ultimatum" major="3" minor="14" start="2021-04-16 20:00:00" end="2021-07-19 22:00:00" current="false"/>
+    <league name="Expedition" major="3" minor="15" start="2021-07-23 20:00:00" end="2021-10-19 21:00:00" current="false"/>
+    <league name="Scourge" major="3" minor="16" start="2021-10-22 20:00:00" end="2022-01-31 21:00:00" current="false"/>
+    <league name="Archnemesis" major="3" minor="17" start="2022-02-04 20:00:00" end="2022-05-10 21:00:00" current="false"/>
+    <league name="Sentinel" major="3" minor="18" start="2022-05-13 20:00:00" end="2022-07-31 21:00:00" current="false"/>
     <league name="Kalandra" major="3" minor="19" start="2022-05-13 22:00:00" end="2022-12-30 21:00:00" current="true" />
   </leagues>
 </metadata>
