@@ -12,5 +12,6 @@
     <chg version="1.1.5">New setting for hide main windows to system tray when minimized</chg> 
     <chg version="1.1.5">Indicator that data filtering is active on top notification bar</chg> 
     <chg version="1.1.5">Some smaller UI improvements</chg> 
+    <chg version="1.1.5">Bugfix tags created in activity details were not added to filter box</chg>
  </changelog>
 </version>
