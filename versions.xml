@@ -18,6 +18,7 @@
     <chg version="1.1.6">Fixed a bug that causes an application crash when filtering with empty list boxes</chg>
     
     <chg version="1.1.12">Added Sanctum Tracking (new activity type and 2 new stats). Needs logfile reload for history.</chg>
+    <chg version="1.1.12">Added Trialmaster Fight as Activity. Needs logfile reload for history.</chg>
     <chg version="1.1.12">Added Tanes Laboratory Tracking (new activity type). Needs logfile reload for history</chg>
  </changelog>
 </version>
