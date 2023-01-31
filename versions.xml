@@ -1,5 +1,5 @@
 <version>
-  <latest>1.1.13</latest>
+  <latest>1.1.14</latest>
   <changelog> <!-- used since 0.8.0 -->
     <chg version="1.1.3">new metadata backend</chg>  
     <chg version="1.1.3">new filter for current league</chg>  
@@ -24,5 +24,7 @@
     <chg version="1.1.13">Fixed time calculation when using league filters</chg>
     <chg version="1.1.13">Added option to specify time of day when using custom time filter</chg>
     <chg version="1.1.13">Added timezone indicator (+0) to all league info entries in metadata repository</chg>
+    
+    <chg version="1.1.14">HOTFIX: end time was not correctly calculated when using custom time filter.</chg>
  </changelog>
 </version>
