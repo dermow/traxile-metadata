@@ -28,6 +28,6 @@
     <chg version="1.1.14">HOTFIX: end time was not correctly calculated when using custom time filter.</chg>
     
     <chg version="1.2.0">Added league overview.</chg>
-    <chg version="1.2.0"Searchbar now supports regular exppressions. Yeah.</chg>
+    <chg version="1.2.0">Searchbar now supports regular exppressions. Yeah.</chg>
  </changelog>
 </version>
