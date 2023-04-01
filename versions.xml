@@ -1,5 +1,5 @@
 <version>
-  <latest>1.1.14</latest>
+  <latest>1.2.0</latest>
   <changelog> <!-- used since 0.8.0 -->
     <chg version="1.1.3">new metadata backend</chg>  
     <chg version="1.1.3">new filter for current league</chg>  
@@ -26,5 +26,8 @@
     <chg version="1.1.13">Added timezone indicator (+0) to all league info entries in metadata repository</chg>
     
     <chg version="1.1.14">HOTFIX: end time was not correctly calculated when using custom time filter.</chg>
+    
+    <chg version="1.2.0">Added league overview.</chg>
+    <chg version="1.2.0">Searchbar now supports regular expressions. Yeah.</chg>
  </changelog>
 </version>
