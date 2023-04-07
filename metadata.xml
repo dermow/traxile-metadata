@@ -20,7 +20,7 @@
     <league name="Archnemesis" major="3" minor="17" start="2022-02-04 20:00:00 +0" end="2022-05-10 22:00:00 +0" current="false"/>
     <league name="Sentinel" major="3" minor="18" start="2022-05-13 20:00:00 +0" end="2022-07-31 22:00:00 +0" current="false"/>
     <league name="Kalandra" major="3" minor="19" start="2022-08-19 20:00:00 +0" end="2022-12-07 20:00:00 +0" current="false" />
-    <league name="Sanctum" major="3" minor="20" start="2022-12-09 19:00:00 +0" end="2023-04-05 22:00:00 +0" current="false" />
+    <league name="Sanctum" major="3" minor="20" start="2022-12-09 19:00:00 +0" end="2023-04-04 22:00:00 +0" current="false" />
     <league name="Crucible" major="3" minor="21" start="2023-04-07 20:00:00 +0" end="2023-08-18 21:00:00 +0" current="true" />
   </leagues>
 </metadata>
