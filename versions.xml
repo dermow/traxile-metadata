@@ -1,5 +1,5 @@
 <version>
-  <latest>1.2.0</latest>
+  <latest>1.2.1</latest>
   <changelog> <!-- used since 0.8.0 -->
     <chg version="1.1.3">new metadata backend</chg>  
     <chg version="1.1.3">new filter for current league</chg>  
@@ -29,5 +29,7 @@
     
     <chg version="1.2.0">Added league overview.</chg>
     <chg version="1.2.0">Searchbar now supports regular expressions. Yeah.</chg>
+    
+    <chg version="1.2.1">Fixed 'Today' time filter.</chg>
  </changelog>
 </version>
