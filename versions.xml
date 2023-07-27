@@ -1,5 +1,5 @@
 <version>
-  <latest>1.2.4</latest>
+  <latest>1.2.5</latest>
   <changelog> <!-- used since 0.8.0 -->
     <chg version="1.1.3">new metadata backend</chg>  
     <chg version="1.1.3">new filter for current league</chg>  
@@ -33,6 +33,6 @@
     <chg version="1.2.1">Fixed 'Today' time filter.</chg>
     <chg version="1.2.2">Fixed logging.</chg>
 
-    <chg version="1.2.4">Added new command "split" which splits the current activity by starting a new identical one. Can be used when auto detection is not working becuase of same area and instance.</chg>
+    <chg version="1.2.5">Added new command "split" which splits the current activity by starting a new identical one. Can be used when auto detection is not working becuase of same area and instance.</chg>
  </changelog>
 </version>
